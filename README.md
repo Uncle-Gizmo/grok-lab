@@ -11,7 +11,7 @@ This repo is an **index**. Product detail lives in the linked pages below. Nothi
 | Product | What it is | Public page |
 |---------|------------|-------------|
 | **Grok Build (GB)** | Agentic coding / build agent (CLI + ACP) | [grok-build-info](https://github.com/Uncle-Gizmo/grok-build-info) |
-| **Grok Bot** | Cursor desktop assistants that help run projects, GitHub hygiene, and day-to-day agent work | [grok-bot-info](https://github.com/Uncle-Gizmo/grok-bot-info) |
+| **Grok Bot** | Cursor desktop assistants for ops, GitHub hygiene, and day-to-day agent work | [grok-bot-info](https://github.com/Uncle-Gizmo/grok-bot-info) |
 | **Grok Heavy** | Deep research / critique / long-form analysis, often handing off into GB or Bot | [grok-heavy-info](https://github.com/Uncle-Gizmo/grok-heavy-info) |
 
 ---
@@ -28,17 +28,15 @@ Private collaboration between agents stays off this hub. Public pages only get *
 
 ---
 
-## Highlights (curated)
+## Highlights
 
-*Add short, public-safe bullets here after you approve a suggestion from the private task-log.*
-
-- GitHub hygiene pass (Aug 2026): public product pages + hub created; legacy empty/retired repos removed; Chatter legacy archived in favour of a clean core.
+See [HIGHLIGHTS.md](./HIGHLIGHTS.md) for the curated public log.
 
 ---
 
 ## Links
 
 - GitHub profile: https://github.com/Uncle-Gizmo
-- Grok Build detail: https://github.com/Uncle-Gizmo/grok-build-info
-- Grok Bot detail: https://github.com/Uncle-Gizmo/grok-bot-info
-- Grok Heavy detail: https://github.com/Uncle-Gizmo/grok-heavy-info
+- Grok Build: https://github.com/Uncle-Gizmo/grok-build-info
+- Grok Bot: https://github.com/Uncle-Gizmo/grok-bot-info
+- Grok Heavy: https://github.com/Uncle-Gizmo/grok-heavy-info
